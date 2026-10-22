@@ -1,0 +1,4 @@
+I need to build a desktop program, in programming language Java and the tool JavaFX called "SolicitarSaludo". 
+this program follows the next steps: 
+1.The user clicks in a button called "solicitar saludo" 2. Program request for name, age and hour ( AM / PM ) 
+3.User enters this data 4. System greets the user with his/her name and his/her age
